@@ -67,4 +67,4 @@ Thank you for using Electrum-XMR! Stay safe and keep your funds secure.
 
 ---
 
-"Monero is our choice for privacy and security." – The Electrum-XMR Team
+> "Monero is our choice for privacy and security." – The Electrum-XMR Team
