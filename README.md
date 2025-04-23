@@ -21,7 +21,7 @@ Electrum-XMR is a lightweight and fast Monero wallet based on the popular Electr
 ## 🔥 Latest Release: v1.5.6
 The latest release of Electrum-XMR, v1.5.6, brings several performance improvements and bug fixes. Make sure to update to the latest version to enjoy a smoother experience.
 
-- **[Release Notes](https://github.com/gekkonfs/Electrum-XMR/releases/tag/v.1.5.6)**
+- **[Release Notes](https://github.com/gekkonfs/Electrum-XMR/releases/tag/v1.5.6)**
 ## 🚀 Download
 Electrum-XMR is available for download in various formats to suit your platform:
 
